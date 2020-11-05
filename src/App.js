@@ -12,7 +12,7 @@ function App() {
 					width='100%'
 					height='100%'
 					controls='true'
-					url={[{ src: 'movie.mp4', type: 'video/mp4' }]}
+					url={[{ src: 'videos/movie.mp4', type: 'video/mp4' }]}
 				/>
 			</header>
 		</div>
